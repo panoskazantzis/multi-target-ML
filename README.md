@@ -1,2 +1,4 @@
-# multi-target-ML
-Multi-target ML methodologies &amp; performance evaluation
+# Multi-Target Machine Learning
+<b>Defintion: </b>Multi-target machine learning, also known as multi-output or multi-dimensional machine learning, is a type of machine learning problem where you aim to predict multiple target variables (outputs) simultaneously using a single model. In contrast to traditional single-target machine learning, which focuses on predicting a single target variable, multi-target machine learning deals with scenarios where there are multiple interrelated target variables that need to be predicted.<br>
+<b>Why: Multiple industry use cases require the prediction of multiple variables simultaneously, in a way that the relationships between the predicted variables are preserved. Standard single-target ML techniques can, in theory, be used but they are completely agnostic to the in-between relationships of the target variables. Thus, a robust framework of multi-target predictive models is needed which is still somewhat missing.</b><br>
+<b>Scope: The scope of the work located here is to provide an overall multi-target Machine Learning framework, going through different methodologies and performance evaluation.</b><br>
